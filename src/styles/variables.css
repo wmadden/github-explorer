@@ -1,0 +1,48 @@
+$body-bg: #eceff1;
+
+// primary colors
+$r-green-1: #00b192;
+$r-green-2: #33c1a8;
+$r-green-3: #57ccb7;
+$r-green-4: #70d3c2;
+$r-green-5: #87dacc;
+$r-green-6: #baeae2;
+
+$r-petrol-1: #2e5865;
+$r-petrol-2: #476b76;
+$r-petrol-3: #829ba3;
+
+// secondary colors
+$r-blue-1: #449dd0;
+$r-purple-1: #ba5b9f;
+$r-orange-1: #ee7334;
+$r-yellow-1: #fbb928;
+
+// status colors
+$r-red-1: #c9555e;
+
+// gradients
+$r-green-petrol-1: linear-gradient( to left, $r-green-1, $r-petrol-1);
+
+// Remerge grey
+$r-grey-1: #343f42;
+$r-grey-2: #485255;
+$r-grey-3: #5d6568;
+$r-grey-4: #71787a;
+$r-grey-5: #858c8e;
+$r-grey-6: #999fa0;
+$r-grey-7: #aeb2b3;
+$r-grey-8: #c2c5c6;
+$r-grey-9: #d6d9d9;
+$r-grey-10: #eaebec;
+$r-grey-11: #f5f5f5;
+$r-grey-12: #fafafa;
+
+@keyframes spin {
+0% {
+  transform: rotate(0deg);
+}
+100% {
+  transform: rotate(359deg);
+}
+}

@@ -1,0 +1,24 @@
+Goal: port a significant portion of the Remerge UI to React to prove its feasibility
+
+TODO:
+  - [ ] Build chain
+    - [ ] Upgrade Webpack
+    - [x] CSS precompilation
+      - [x] Sass
+      - [ ] CSS modules
+  - [ ] React storybook
+  - [ ] State management
+    - [ ] Add Redux
+  - [ ] Application frame
+    - [ ] Left sidebar
+    - [ ] Top bar
+  - [ ] Authentication
+  - [ ] Capaign edit page
+    - [ ] Target URL editor
+    - [ ] Rule editor
+    - [ ] Form
+    - [ ] Audiences list
+  - [ ] Data fetching
+  - [ ] Routing
+  - [ ] Unit tests
+  - [ ] Acceptance tests

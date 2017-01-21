@@ -1,0 +1,62 @@
+$ratio: 1.125;
+$negative-ratio: $ratio * -1;
+
+$ms0: 1rem;
+
+$ms1: $ms0 * $ratio;
+
+$ms2: $ms1 * $ratio;
+
+$ms3: $ms2 * $ratio;
+
+$ms4: $ms3 * $ratio;
+
+$ms5: $ms4 * $ratio;
+
+$ms6: $ms5 * $ratio;
+
+$ms7: $ms6 * $ratio;
+
+$ms8: $ms7 * $ratio;
+
+$ms9: $ms8 * $ratio;
+
+$ms-1: 0.889rem;
+
+$ms-2: 0.79rem;
+
+h1 {
+  font-size: $ms7;
+  margin: 1em 0 0.5em;
+}
+
+h2 {
+  font-size: $ms6;
+  margin: 1em 0 0.5em;
+}
+
+h3 {
+  font-size: $ms5;
+  margin: 1em 0 0.5em;
+}
+
+h4 {
+  font-size: $ms4;
+  margin: 1em 0 0.5em;
+}
+
+h5 {
+  font-size: $ms3;
+  margin: 1em 0 0.5em;
+}
+
+h6 {
+  font-size: $ms2;
+  margin: 1em 0 0.5em;
+}
+
+p {
+  font-size: $ms0;
+  margin: 1em 0 0.5em;
+}
+
